@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 运行结果
+processed_results/
+match_results/
+outputs/
+result/
+
+# 大文件与模型
+*.pt
+*.pth
+*.onnx
+*.engine
+*.zip
+*.rar
+*.7z
+
+# 系统文件
+.DS_Store
+Thumbs.db
