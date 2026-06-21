@@ -1,7 +1,3 @@
-#变量 len(valid_matches) 就是职业人员数量，ro2.jpg单独处理没问题，批处理识别出错，暂时无解
-#变量 len(valid_matches) 就是职业人员数量，ro2.jpg单独处理没问题，批处理识别出错，暂时无解
-#变量 len(valid_matches) 就是职业人员数量，ro2.jpg单独处理没问题，批处理识别出错，暂时无解
-#变量 len(valid_matches) 就是职业人员数量，ro2.jpg单独处理没问题，批处理识别出错，暂时无解
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
