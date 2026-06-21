@@ -12,7 +12,7 @@ matplotlib.use('TkAgg')  # 设置TkAgg后端
 plt.rcParams['font.sans-serif'] = ['SimHei']  # 使用黑体
 plt.rcParams['axes.unicode_minus'] = False  # 正确显示负号
 
-# 读取模板图像目录
+# 读取模板图像目录(将 标记职业人数.py 移动到与zy同一目录)
 template_dir = r'zy'  # 模板图像目录
 target_dir = r'./'  # 目标图像目录
 
